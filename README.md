@@ -70,11 +70,11 @@ Or if you have built a utility, then use this command:
    ```
 
 Here are some of the commands that are available in Simple multi-tool:
-- 'file_system'     Some operations with the file system.
-- 'network_utils'   Network operations.
-- 'image_tools'     Some image processing.
-- 'dev_utils'       A few development tools.
-- 'entertainment'   Of course, there are also entertainments.
+- **'file_system'**     Some operations with the file system.
+- **'network_utils'**   Network operations.
+- **'image_tools'**     Some image processing.
+- **'dev_utils'**       A few development tools.
+- **'entertainment'**   Of course, there are also entertainments.
 There are also other sections that have their own functionality.
 
 **Command Syntax:**
