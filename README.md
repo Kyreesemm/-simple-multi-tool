@@ -19,7 +19,7 @@ To get started with Simple Multi-Tool, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Kyreesemm/-simple-multi-tool.git
+   git clone https://github.com/Kyreesemm/simple-multi-tool.git
    ```
 2. **Go to the repository directory:**
    ```bash
