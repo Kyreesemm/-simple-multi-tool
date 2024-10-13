@@ -41,7 +41,7 @@ To get started with Simple Multi-Tool, follow these steps:
    python main.py [chapter] [command]
    ```
 6. **Add your APIs to the code:**
-   In the 'api_utils.py' file you need to add your API keys for services, such as:
+   In the **'api_utils.py'** file you need to add your API keys for services, such as:
    - OpenWeatherMap: https://openweathermap.org/
    - ExchangeRate: https://www.exchangerate-api.com/
 
