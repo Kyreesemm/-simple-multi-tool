@@ -1,0 +1,4 @@
+requests
+wikipedia-api
+Pillow
+psutil
