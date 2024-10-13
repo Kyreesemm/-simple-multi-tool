@@ -45,7 +45,7 @@ To get started with Simple Multi-Tool, follow these steps:
 
 To make it easier for you to use this utility, you can assemble it into an executable file and add it to the 'PATH' in Windows, for example, so that it always works from the command line.
 
-1. **install PyInstaller:**
+1. **Install PyInstaller:**
    ```bash
    pip install pyinstaller
    ```
